@@ -76,7 +76,7 @@ Mục Lục:
 - 1.3.2 Kết nối duy trì: sau khi quá trình bắt tay 3 bước thành công, thiết bị và điểm truy cập thiết lập một kết nối duy trì. Kết nối này cho phép thiết bị gửi và nhận dữ liệu qua mạng Wifi.
 ### 2. Làm sao để hack wifi?
 
-    Trước hết ta nên hiểu tạo sao 1 cục access point khi bật lên ta lại thấy chúng trong điện thoại của chúng ta? Tại sao ta di chuyển ra xa hay gần thì chúng luôn hiển thị độ mạnh yếu?
+Trước hết ta nên hiểu tạo sao 1 cục access point khi bật lên ta lại thấy chúng trong điện thoại của chúng ta? Tại sao ta di chuyển ra xa hay gần thì chúng luôn hiển thị độ mạnh yếu?
 
 —Để hiểu hơn về vấn đề này, tôi sẽ giải thích:
 
